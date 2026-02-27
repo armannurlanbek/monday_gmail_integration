@@ -1,0 +1,28 @@
+### Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Virtual environments
+.venv/
+venv/
+env/
+
+### Environment & config (secrets)
+.env
+.env.*
+credentials.json
+token.json
+
+### Logs & runtime data
+sent_log.csv
+*.log
+
+### IDE / editor
+.vscode/
+.idea/
+
+### OS files
+.DS_Store
+Thumbs.db
+
